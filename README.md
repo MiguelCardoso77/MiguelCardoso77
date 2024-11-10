@@ -13,9 +13,10 @@ I'm a software developer based in Portugal. I enjoy coding projects that solve u
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height"50"/> &nbsp;
 
 &nbsp;
 
