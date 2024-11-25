@@ -22,18 +22,15 @@ I thrive in environments that challenge me to think creatively and innovate, and
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>   
-<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50"/>  
 
 ### Tools & Platforms  
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>   
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
-
-### Database & Query Languages  
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>   
-<img src="https://avatars.githubusercontent.com/u/24226369?s=200&v=4" alt="JPA" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 
 &nbsp;
 
