@@ -4,7 +4,9 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Portugal. I enjoy coding projects that solve unique problems. I love combining my hobbies like photo editing, coding and video editing.
+I am a passionate Informatics Engineering student at ISEP, driven by curiosity and a desire to continuously learn and grow. With a strong ambition to expand my technical and problem-solving skills, I am particularly interested in exploring areas such as Artificial Intelligence, Data Science, and Software Development.
+
+I thrive in environments that challenge me to think creatively and innovate, and I am always open to collaborating on impactful projects.
 
 &nbsp;
 
