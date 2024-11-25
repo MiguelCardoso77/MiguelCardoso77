@@ -12,13 +12,28 @@ I thrive in environments that challenge me to think creatively and innovate, and
 
 ## 🧰 &nbsp;My toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;
+### Programming Languages  
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg "Java")  
+![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg "C#")  
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg "C")  
+![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg "TypeScript")  
+
+### Frameworks & Libraries  
+![React Native](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg "React Native")  
+![Angular](https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg "Angular")  
+![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg "Spring")  
+![Cypress](https://avatars.githubusercontent.com/u/8908513?s=200&v=4 "Cypress")  
+
+### Tools & Platforms  
+![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg "Firebase")  
+![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg "Git")  
+![npm](https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg "npm")  
+![Photoshop](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg "Photoshop")  
+![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5")  
+
+### Database & Query Languages  
+![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg "SQL")  
+![JPA](https://avatars.githubusercontent.com/u/24226369?s=200&v=4 "JPA")
 
 &nbsp;
 
