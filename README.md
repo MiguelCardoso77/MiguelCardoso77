@@ -26,7 +26,8 @@ I thrive in environments that challenge me to think creatively and innovate, and
 
 ### Tools & Platforms  
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50"/>   
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
@@ -36,7 +37,7 @@ I thrive in environments that challenge me to think creatively and innovate, and
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCardoso77&repo=LAPR4&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/MiguelCardoso77/LAPR4) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCardoso77&repo=GameOn&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/MiguelCardoso77/GameOn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCardoso77&repo=LAPR4&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/MiguelCardoso77/LAPR4) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCardoso77&repo=TicTacGlobe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/MiguelCardoso77/TicTacGlobe)
 
 &nbsp;
 
